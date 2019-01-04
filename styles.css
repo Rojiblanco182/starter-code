@@ -1,0 +1,130 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  height: 50px;  
+}
+
+nav a{
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.build-amazing-things {
+  margin: 0 auto;
+  width: 60%;
+  color: white;
+  background-color: rgb(32,101,136);
+}
+
+.build-amazing-things button {
+  color: white;
+  background-color: rgb(240,146,51);
+}
+
+.build-amazing-things img {
+  float:right;
+  width: 40%;
+}
+
+header {
+  background-color: rgb(32,101,136);
+}
+
+.header-1 {
+  background-color: rgb(32,101,136);
+  color: white;
+  height: 50px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.bear {
+  width: 50px;
+}
+
+.header-1  a, .bear {
+  float: right;
+  text-decoration: none;
+  color: white;
+}
+
+.search-bar {
+  background-color: rgb(31,82,111);
+}
+
+section1 {
+  background-color: rgb(39,53,71);
+}
+
+section1 img {
+  width: 30%;
+  background-color: rgb(39,53,71);
+  padding: 20px 0 18px 20%;
+}
+
+.div-section1 {
+  margin: 0 auto;
+  width: 50%;
+  float: right;
+  color: white;
+  background-color: rgb(39,53,71);
+  line-height: 30px;
+}
+
+.div-section1 button {
+  background-color: rgb(203,56,55);
+  color: white;
+}
+
+section2 .div-section2 {
+  position: relative;
+  background-size: cover;
+  background-image: url("images/red-car.png");
+  background-color: rgb(32,101,136);
+  color: white;
+  height: 350px;
+  text-align: center;
+}
+
+.div-section2 button {
+  color: white;
+  background-color: rgb(49, 68, 88);
+}
+
+section3 {
+  margin: 0 auto;
+  color: rgb(135, 145, 156);
+  background-color: white;
+  text-align: center;
+}
+
+.articles {
+  width: 33%;
+  float: left;
+  margin: 50px 0;
+  box-sizing: border-box;
+  padding: 0 100px 0 100px;
+}
+
+section3 h2, h3 {
+  color: rgb(83, 88, 98);
+}
+
+.clearfix {
+  clear: both;
+}
